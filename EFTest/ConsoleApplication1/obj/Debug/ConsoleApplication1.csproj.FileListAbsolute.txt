@@ -1,0 +1,12 @@
+C:\JioTestFolder\EFTest\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\JioTestFolder\EFTest\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\JioTestFolder\EFTest\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\JioTestFolder\EFTest\ConsoleApplication1\ConsoleApplication1\bin\Debug\EntityFramework.dll
+C:\JioTestFolder\EFTest\ConsoleApplication1\ConsoleApplication1\bin\Debug\EntityFramework.SqlServer.dll
+C:\JioTestFolder\EFTest\ConsoleApplication1\ConsoleApplication1\bin\Debug\EntityFramework.xml
+C:\JioTestFolder\EFTest\ConsoleApplication1\ConsoleApplication1\bin\Debug\EntityFramework.SqlServer.xml
+C:\JioTestFolder\EFTest\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\JioTestFolder\EFTest\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\JioTestFolder\EFTest\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\JioTestFolder\EFTest\ConsoleApplication1\ConsoleApplication1\bin\Debug\JS.ProjectBase.dll
+C:\JioTestFolder\EFTest\ConsoleApplication1\ConsoleApplication1\bin\Debug\JS.ProjectBase.pdb
